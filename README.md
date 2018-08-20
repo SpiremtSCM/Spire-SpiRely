@@ -1,2 +1,2 @@
-# Spire-SpireRely
-Spire SpireRely Meters
+# Spire-SpiRely
+Spire Spirely Meters
